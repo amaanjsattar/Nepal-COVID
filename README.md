@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Nepal ICU and Ventilator Occupancy Visualization
 
-You can use the [editor on GitHub](https://github.com/amaanjsattar/Nepal-COVID/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Amaan Jogia-Sattar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The dataset found on Kaggle contains information from Nepal's Ministry of Health and Population's COVID briefing. The dataset includes information regarding ICU occupancy, total space, ventilator quantity, and ventilator availability for Nepal's seven provinces from April 12-29.
 
-### Markdown
+TODO: Put Visualization Here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amaanjsattar/Nepal-COVID/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I utilized data collected on April 29, reflecting the most recent counts for ICU and ventilator availability in each province. It appears Lumbini, Karnali, and Sudur-Paschim are the provinces running lowest on ICU and ventilator availability, while Gandaki has the most ICU and second-most ventilator occupancy. All of Pradesh-2s ventilators remain available on April 29, though 20% of the ICU is occupied. The dataset suggests that relief efforts would benefit from prioritizing Sudur-Paschim, Karnali, and Lumbini, the provinces with the least remaining ICU and ventilator occupancy.
